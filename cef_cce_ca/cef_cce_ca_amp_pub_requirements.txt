@@ -1,0 +1,10 @@
+# Core dependencies
+scrapy  # Web scraping framework
+pandas  # Data manipulation and analysis
+
+# Additional modules
+lxml  # For parsing HTML and XML
+evpn  # Verify this package and add correct installation details
+
+# Use below command to install above modules
+# pip install -r cef_cce_ca_amp_pub_requirements.txt
